@@ -10,6 +10,7 @@ namespace GitHubTest_04_11_21
             //VSE comment
             Console.WriteLine("Welcome to github!");
             //VSE Comment 3 (error)?
+            //GIT comment 3 (error)?
         }
     }
 }
