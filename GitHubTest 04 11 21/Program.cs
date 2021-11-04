@@ -6,7 +6,7 @@ namespace GitHubTest_04_11_21
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to github!");
         }
     }
 }
